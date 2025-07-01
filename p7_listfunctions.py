@@ -4,3 +4,4 @@ friends.append("Babita") #add element to the list
 print(friends)
 friends.extend(lucky_number) # merges two lists into one list
 print(friends)
+
