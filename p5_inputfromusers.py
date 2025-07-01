@@ -9,3 +9,4 @@ num2 = input("Enter the number:")
 result=int(num1)+int(num2)
 print(result)
 
+
