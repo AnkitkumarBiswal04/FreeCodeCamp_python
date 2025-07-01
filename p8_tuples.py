@@ -5,5 +5,5 @@ coordinates1=[(4,5),(5,6),(6,7)]
 print(coordinates[0])
 print(coordinates[1])
 print(coordinates1[1])
-#practical use of tuples where data do not change
+#practical use of tuples where data do 69not change
 #A majority of time we use list
