@@ -6,4 +6,6 @@ friends.extend(lucky_number) # merges two lists into one list
 print(friends)
 friends.insert(1,"kelly") # inserts an element in between the list
 print(friends)
+friends.remove("Aroma")
+print(friends) # removes an element from the list
 
