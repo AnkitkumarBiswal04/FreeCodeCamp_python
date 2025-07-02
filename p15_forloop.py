@@ -18,3 +18,12 @@ for friend in friends:
 #for loop in case of string
 for letter in "Ankit Kumar Biswal":
     print(letter)
+
+#length of the array
+print(len(friends))
+
+for index in range(5):
+    if index == 0:
+        print("first iteration")
+    else:
+        print("no iteration")
